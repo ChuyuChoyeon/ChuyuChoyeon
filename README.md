@@ -71,8 +71,9 @@ class ChuyuChoyeon:
 
 ## 📌 Featured Projects
 
-[![viewing_system_configuration](https://github.com/ChuyuChoyeon/ChuyuChoyeon/blob/output/pin-viewing.svg)](https://github.com/ChuyuChoyeon/viewing_system_configuration)
 [![Rosetta](https://github.com/ChuyuChoyeon/ChuyuChoyeon/blob/output/pin-rosetta.svg)](https://github.com/ChuyuChoyeon/Rosetta)
+[![choyeon-todo](https://github.com/ChuyuChoyeon/ChuyuChoyeon/blob/output/pin-choyeon-todo.svg)](https://github.com/ChuyuChoyeon/choyeon-todo)
+[![choyeon-note](https://github.com/ChuyuChoyeon/ChuyuChoyeon/blob/output/pin-choyeon-note.svg)](https://github.com/ChuyuChoyeon/choyeon-note)
 
 ---
 
@@ -85,6 +86,6 @@ class ChuyuChoyeon:
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChuyuChoyeon&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/badge/Profile_Views-18-58a6ff?style=for-the-badge)
 
 </div>
